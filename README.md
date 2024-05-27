@@ -5,4 +5,4 @@
 ## Features
 ### Displays the current time in hours, minutes, and seconds. Indicates AM/PM. Animated circular progress indicators for hours, minutes, and seconds. Responsive design with a clean and modern UI.
 
-img.png
+![alt text](img.png)
